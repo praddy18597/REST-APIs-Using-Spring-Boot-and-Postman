@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: spring.profiles.active
+
+app:
+  datasorce:
+    jdbc-url: jdbc:postgresql://localhost:5432/demodb
+    username: postgres
+    password: password
+    pool-size: 30
+

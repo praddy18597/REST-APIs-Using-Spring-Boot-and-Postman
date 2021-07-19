@@ -1,0 +1,8 @@
+com\example\demo\DemoApplication.class
+com\example\demo\datasource\Datasource.class
+com\example\demo\dao\PersonDataAccessService.class
+com\example\demo\api\PersonController.class
+com\example\demo\dao\FakePersonDataAccesService.class
+com\example\demo\dao\PersonDao.class
+com\example\demo\model\Person.class
+com\example\demo\service\PersonService.class
