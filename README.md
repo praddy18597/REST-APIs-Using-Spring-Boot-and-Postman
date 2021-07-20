@@ -50,4 +50,4 @@
 - demo=# INSERT INTO person (id, name) VALUES (uuid_generate_v4(), 'Tom Smith');
 - demo=# SELECT * FROM person;
 
-12)we've maange to connect our database using springboot.(Docker, Postgres, flyway, spring jdbc)
+12) We've maange to connect our database using springboot.(Docker, Postgres, flyway, spring jdbc)
